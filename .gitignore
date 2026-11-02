@@ -1,0 +1,27 @@
+# Rust
+target/
+*.wasm
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
